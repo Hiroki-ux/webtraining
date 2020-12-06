@@ -1,0 +1,53 @@
+body {
+    background: rgb(255, 255, 255);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.logo {
+    background: black;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.menu {
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-top: 10px;
+    text-align: right;
+
+    
+}
+
+li {
+    display: inline;
+    margin-right: 20px;
+    vertical-align: middle;
+}
+
+.members div{
+    color: black;
+    display: inline-block;
+    margin-right: 20px;
+    vertical-align: middle;
+    text-align: center;
+  }
+
+.members div img{
+    border: 1px solid white;
+    border-radius: 50%;
+    box-shadow: gray 0 0 10px;
+    display: inline-block;
+}
+
+footer {
+    background: black;
+    color: gray;
+    font-size: 12px;
+    padding: 20px 20px;
+    text-align: center;
+}
